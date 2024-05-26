@@ -14,7 +14,7 @@ Materiales:
 - Horno*: Dependiendo del tipo de polímero que se este utilizando, es probable que se necesite curar la muestra a una temperatura cercana a los 150-180°, por lo que un horno es necesario para completar el proceso de impresión. Para estos casos, se recomienda encontrar un par de fluidos (matriz-de inyeccción) que posean densidades similares, dado que si existen diferencias entre ellos, sumado al tiempo extra necesario para curar el polímero, el patrón de gotas puede decantar en el recipiente, dejando inutilizable la muestra.
 
 Proceso de impresión: 
-1° paso: 
-Preparar el recipiente: usualmente se ocupa un recipiente formado por dos piezas, el cuerpo y una base separada, esto para facilitar la extracción de la muestra al final del proceso. Para unir ambas partes, se utiliza una mezcla de 10 gramos de VPS ( 5 gramos de catalizador y 5 gramos de base), se mezclan en la centrofugadora y se ocupan como pegamente entre ambas partes. Procurar que quede una capa suficiente de VPS en los bordes, para que no se derrame el polímero que ocuparemos para imprimir. Dejar secar por aproximadamente 10 min. 
-2° paso: 
-Una vez subido el código y definido el caudal en las bombas de jeringa, 
+- 1° paso: 
+--Preparar el recipiente: usualmente se ocupa un recipiente formado por dos piezas, el cuerpo y una base separada, esto para facilitar la extracción de la muestra al final del proceso. Para unir ambas partes, se utiliza una mezcla de 10 gramos de VPS ( 5 gramos de catalizador y 5 gramos de base), se mezclan en la centrofugadora y se ocupan como pegamente entre ambas partes. Procurar que quede una capa suficiente de VPS en los bordes, para que no se derrame el polímero que ocuparemos para imprimir. Dejar secar por aproximadamente 10 min. 
+-2° paso: 
+--Una vez subido el código y definido el caudal en las bombas de jeringa, 
