@@ -10,7 +10,7 @@ estudiado para el propósito que desee.
 La lista de las carpetas que podrán encontrar en este repositorio:
 - Proceso de impresión: son basicamente las instrucciones y todo lo que necesitan saber antes de imprimir. Favor leer completo antes de comenzar el proceso de impresión!
 - Codigo: La impresora funciona a traves de una placa ESP32 y tiene su código respectivo escrito en Python. Dentro de la carpeta podras encontrar una explicación del codigo y como funciona en detalle.
-- Piezas y planos: Dentro de esta carpeta podran encontrar los dibujos 3D de todas las partes de la impresora, junto con otras piezas que se diseñaron para modificaciones o mejoras de la impresora.
+- Piezas: Dentro de esta carpeta podran encontrar los dibujos 3D de todas las partes de la impresora, junto con otras piezas que se diseñaron para modificaciones o mejoras de la impresora.
 
 
 Ante cualquier duda que tengan sobre la construcción, funcionamiento o impresión, pueden enviarnos un correo a: ccontreras@is.mpg.de o (inserte mail consu rojas)
