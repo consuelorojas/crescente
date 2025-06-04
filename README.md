@@ -13,4 +13,4 @@ La lista de las carpetas que podrán encontrar en este repositorio:
 - Piezas: Dentro de esta carpeta podran encontrar los dibujos 3D de todas las partes de la impresora, junto con otras piezas que se diseñaron para modificaciones o mejoras de la impresora.
 
 
-Ante cualquier duda que tengan sobre la construcción, funcionamiento o impresión, pueden enviarnos un correo a: ccontreras@is.mpg.de o consuelorojas@ug.uchile.cl)
+Ante cualquier duda que tengan sobre la construcción, funcionamiento o impresión, pueden enviarnos un correo a: ccontreras@is.mpg.de o consuelo.belen.paz.rojas@upc.edu)
